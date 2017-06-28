@@ -1,0 +1,8 @@
+rpiSleepTime=5
+spiSleepTime=2
+relay1=1
+PvoutputApikey=90655610aa25f72793b5feb9c51fea723cef7a3a
+PvoutputSystemId=52957
+logFileName=log.txt
+logLevel=trace
+shutdownRPi=1
